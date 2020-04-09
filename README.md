@@ -4,7 +4,7 @@ Dockerfile for Terraform on Azure
 ## Build
 
 ```bash
-
+docker built -t terraform-az .
 ```
 
 ## Invocation
